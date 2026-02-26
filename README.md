@@ -15,3 +15,11 @@
 - **4.4** - HashSet + файл: глухие согласные
 - **5.4** - Dictionary: абитуриенты
 
+##  Структура проекта
+Lab4_Collections/
+├── Program.cs
+├── Task1_List.cs
+├── Task2_LinkedList.cs
+├── Task3_HashSet.cs
+├── Task4_HashSetFile.cs
+└── Task5_Dictionary.cs
