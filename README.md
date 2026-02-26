@@ -4,17 +4,29 @@
 
 ## Структура
 Lab6_Interfaces/
+
 ├── Program.cs
+
 ├── Interfaces/
+
 │ ├── IMeowable.cs
+
 │ ├── IFraction.cs
+
 │ └── IMyCloneable.cs
+
 ├── Models/
+
 │ ├── Cat.cs
+
 │ └── Fraction.cs
+
 ├── Utils/
+
 │ └── MeowHelper.cs
+
 └── Tests/
+
 └── TestClasses.cs
 
 ## Задания
